@@ -1,4 +1,4 @@
-# Calculating-credit-worthiness-for-rural-India-
+# Financial_Credibility_Analysis
 
 # Goal: 
 
@@ -7,7 +7,7 @@
 * In Banking industry, loan applications are generally approved after a thorough background
    check of the customer's repayment capabilities.
 * Credit Score plays a significant role in identifying customer's financial behaviour (specifically default).
-* People belonging to rural India do not have credit score and it is difficult to do a direct assessment.
+* Most people do not have credit score and it is difficult to do a direct assessment.
 # Attribute Information
 1. Id: Primary Key
 2. Personal Details: city, age, sex, social_class
@@ -38,6 +38,6 @@ Step 5 :Model Creation and Evaluation:
 * EDA and Model creation.ipynb files has all EDA and Model creation scripts.
 * ModelCreation_properCoding_documentation.py: I have followed object oriented programming approach for creating model.For this usecase,Random Forest gives good accuracy.
 # Note
-* I have kept all the analysis results, approach in the PPT:Detailed_Analysis_result_Sakil.pptx
+* I have kept all the analysis results, approach in the PPT:Detailed_Analysis_result.pptx
 # Note 
 * trainingData .csv: I have used this dataset for the use case.
